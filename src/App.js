@@ -1,4 +1,5 @@
 import './App.css';
+import { initializeApp } from 'firebase/app';
 
 function App() {
   return (
